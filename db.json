@@ -10,11 +10,11 @@
     {"id": 8, "title": "Create List View ", "type": "feature", "column": "todo"},
     {"id": 9, "title": "Create Add Form", "type": "feature", "column": "to"},
     {"id": 10, "title": "App Crashes!", "type": "bug", "column": "done"}
-    ],
+  ],
   "comments":[
     {"id":1, "body":"some comment", "postId": 1},
     {"id":2, "body":"some comment", "postId": 1}
-    ],
+   ],
   "profile":{
     "name":"typicode"
   }
